@@ -7,7 +7,7 @@ from reverse_5_digit_working_with_lists import reverse_digits
     'test_input, expected',
     [
         (1234567, 1276543),
-        (25000, 52),
+        (25000, 152),
     ]
 )
 def test_reverse_digits(test_input, expected):
