@@ -17,5 +17,3 @@ if __name__ == '__main__':
     number = input('Enter five-digit or six-digit natural number: ')
     result = reverse_digits(number)
     print(result)
-
-
