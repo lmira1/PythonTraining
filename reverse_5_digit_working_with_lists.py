@@ -1,4 +1,4 @@
-# Given a five-digit or six-digit natural number. Write a program to reverse the order of its last five digits.
+# Given a natural number. Write a program to reverse the order of its last five digits.
 # To test: 65000, 206578
 
 
